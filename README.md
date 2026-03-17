@@ -12,14 +12,23 @@ To write a program to predict daily temperature , PM2.5 pollution level and Ener
 
 ## Algorithm
 1.Start the programe
+
 2.Import the required libraries such as pandas and sklearn.
+
 3.Load the environmental sensor dataset from the CSV file.
+
 4.Select Humidity, WindSpeed and Pressure as input features.
+
 5.Select Temperature, PM2.5 and Energy as output variables.
+
 6.Split the dataset into training and testing data.
+
 7.Initialize the Random Forest Regressor model.
+
 8.Train the model using the training dataset
-9.Predict the output values using the test dataset.
+
+9.Predict the output values using the test dataset
+
 10.Display the predicted values.
 ## Program:
 ```
